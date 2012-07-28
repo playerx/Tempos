@@ -21,6 +21,7 @@ namespace MvcApplication2
             AreaRegistration.RegisterAllAreas();
 
             int it = 23;
+            int it = 23;
 
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
